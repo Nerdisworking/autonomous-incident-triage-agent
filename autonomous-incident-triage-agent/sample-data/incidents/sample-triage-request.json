@@ -1,0 +1,6 @@
+{
+  "serviceName": "statement-generator-service",
+  "severity": "HIGH",
+  "alertMessage": "Error rate increased above threshold after latest deployment",
+  "timeRange": "last_30_minutes"
+}

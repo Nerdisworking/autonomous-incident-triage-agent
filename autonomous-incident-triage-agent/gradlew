@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+# Placeholder wrapper script. Run `gradle wrapper` locally to generate official Gradle wrapper files.
+gradle "$@"

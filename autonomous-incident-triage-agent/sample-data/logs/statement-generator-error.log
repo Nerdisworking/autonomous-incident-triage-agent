@@ -1,0 +1,3 @@
+2026-04-29T18:17:21Z ERROR statement-generator-service ReadTimeoutException downstream=statement-renderer requestId=req-10231 latencyMs=12000
+2026-04-29T18:17:25Z ERROR statement-generator-service ReadTimeoutException downstream=statement-renderer requestId=req-10232 latencyMs=11950
+2026-04-29T18:17:30Z WARN  statement-generator-service Retry budget exhausted downstream=statement-renderer
